@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Who Am I</title>
+<!-- Internal styles -->
+<style>
+ body {
+     font-family: Arial, sans-serif;
+     background-color: #f0f0f0;
+     text-align: center;
+   }
+   .info {
+         color: #333;
+        }
+    </style>
+    <!-- Linking to an external stylesheet -->
+<link rel="stylesheet" type="text/css" href="mystyle.css">
+</head>
+<body>
+    <!-- Inline style applied to this heading -->
+    <h1 style="color: teal;">Who Am I</h1>
+    <p class="info">My name is Siti Sarah Binti Amin Sah.</p>
+    <p class="info">I am 23 years old.</p>
+    <p class="info">I was a former UiTM student in language but currently I am taking bachelor in new media communication.</p>
+</body>
+</html>
